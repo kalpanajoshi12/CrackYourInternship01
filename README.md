@@ -32,6 +32,7 @@
 | [0088-merge-sorted-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0287-find-the-duplicate-number) |
+| [0908-middle-of-the-linked-list](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -98,4 +99,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0084-largest-rectangle-in-histogram) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
