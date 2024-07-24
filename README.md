@@ -98,6 +98,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
 |  |
@@ -125,4 +126,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
