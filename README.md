@@ -27,6 +27,7 @@
 | [0011-container-with-most-water](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0088-merge-sorted-array) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0138-copy-list-with-random-pointer) |
