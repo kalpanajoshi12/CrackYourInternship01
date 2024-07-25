@@ -13,12 +13,10 @@ class Solution {
         ans.add(new ArrayList<Integer>(subset));
         return;
       }
-      if(index>=n){
+      if(index>=n  || sum>target){
         return;
       }
-      if(sum>target){
-        return;
-      }
+      
       sum+=candidates[index];
       subset.add(candidates[index]);
       f(candidates,index,n,sum,target,ans,subset);
