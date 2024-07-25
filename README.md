@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0040-combination-sum-ii](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0084-largest-rectangle-in-histogram) |
@@ -161,4 +162,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0948-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
