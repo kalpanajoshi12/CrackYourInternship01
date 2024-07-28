@@ -13,6 +13,7 @@
 | [0040-combination-sum-ii](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0090-subsets-ii) |
@@ -59,6 +60,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
@@ -179,5 +181,6 @@
 | ------- |
 | [0039-combination-sum](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
