@@ -15,6 +15,7 @@
 | [0075-sort-colors](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0169-majority-element) |
@@ -58,6 +59,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
@@ -177,4 +179,5 @@
 | ------- |
 | [0039-combination-sum](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
