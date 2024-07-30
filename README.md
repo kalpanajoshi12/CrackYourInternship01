@@ -187,4 +187,20 @@
 | [0040-combination-sum-ii](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0090-subsets-ii) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
