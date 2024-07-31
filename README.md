@@ -23,6 +23,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0560-subarray-sum-equals-k) |
 | [0948-sort-an-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0948-sort-an-array) |
@@ -56,11 +57,13 @@
 | [0148-sort-list](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0948-sort-an-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0948-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -100,6 +103,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0054-spiral-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -166,6 +170,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0948-sort-an-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
