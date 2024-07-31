@@ -20,6 +20,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -54,6 +55,7 @@
 | [0088-merge-sorted-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0948-sort-an-array) |
 ## Binary Search
 |  |
@@ -107,6 +109,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0948-sort-an-array) |
 ## Counting
 |  |
@@ -162,6 +165,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -207,4 +211,8 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0226-invert-binary-tree) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
