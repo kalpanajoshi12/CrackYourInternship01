@@ -206,6 +206,7 @@
 | [0112-path-sum](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -214,6 +215,7 @@
 | [0112-path-sum](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -224,6 +226,7 @@
 | [0112-path-sum](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -234,6 +237,7 @@
 | [0112-path-sum](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0617-merge-two-binary-trees) |
 ## Quickselect
 |  |
 | ------- |
