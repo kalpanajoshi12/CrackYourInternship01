@@ -211,6 +211,7 @@
 | [0226-invert-binary-tree](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0617-merge-two-binary-trees) |
+| [0975-range-sum-of-bst](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -224,6 +225,7 @@
 | [0226-invert-binary-tree](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0617-merge-two-binary-trees) |
+| [0975-range-sum-of-bst](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -251,6 +253,7 @@
 | [0226-invert-binary-tree](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0617-merge-two-binary-trees) |
+| [0975-range-sum-of-bst](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0975-range-sum-of-bst) |
 ## Quickselect
 |  |
 | ------- |
@@ -260,4 +263,5 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0975-range-sum-of-bst](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
