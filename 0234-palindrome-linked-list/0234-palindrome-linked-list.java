@@ -9,36 +9,44 @@
  * }
  */
 class Solution {
-    public boolean isPalindrome(ListNode head) {
-        if(head==null && head.next==null){
-          return false;
-        }
+    public ListNode getMiddleNode(ListNode head){
         ListNode slow = head;
         ListNode fast = head;
-        
-    while(fast.next != null && fast.next.next != null){
+        if(head==null){
+            return head;
+        }
+        if(head.next==null){
+            return head;
+        }
+        while(fast.next!=null && fast.next.next!=null){
             slow = slow.next;
             fast = fast.next.next;
         }
-       slow = slow.next;
-       ListNode pre = null;
-       ListNode next = null;
-       while(slow!=null){
-           next= slow.next;
-           slow.next = pre;
-           pre = slow;
-           slow = next;
-       }
-        while(pre!=null){
-            if(head.val!=pre.val){
+        return slow;
+    }
+    public ListNode reverseLinkedList(ListNode head){
+        ListNode dummy = new ListNode();
+        dummy = null;
+        while(head!=null){
+            ListNode next = head.next;
+            head.next= dummy;
+            dummy = head;
+            head = next;
+        }
+        return dummy;
+    }
+    public boolean isPalindrome(ListNode head) {
+        ListNode middle = getMiddleNode(head);
+        ListNode prev = middle.next;
+        prev = reverseLinkedList(prev);
+        ListNode slow = head;
+        while(prev!=null && slow!=middle.next){
+            if(slow.val!=prev.val){
                 return false;
             }
-            head = head.next;
-            pre = pre.next;
+            slow = slow.next;
+            prev = prev.next;
         }
-        
-        
-      return true;
-
+        return true;
     }
 }
