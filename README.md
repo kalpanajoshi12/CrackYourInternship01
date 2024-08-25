@@ -27,6 +27,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0739-daily-temperatures) |
 | [0948-sort-an-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0948-sort-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
@@ -131,11 +132,13 @@
 | [0232-implement-queue-using-stacks](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
