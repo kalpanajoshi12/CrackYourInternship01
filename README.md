@@ -25,6 +25,7 @@
 | [0287-find-the-duplicate-number](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0560-subarray-sum-equals-k) |
 | [0948-sort-an-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0948-sort-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -79,6 +80,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
@@ -128,10 +130,12 @@
 | [0225-implement-stack-using-queues](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
