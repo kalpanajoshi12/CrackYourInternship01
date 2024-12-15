@@ -27,6 +27,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0739-daily-temperatures) |
 | [0948-sort-an-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0948-sort-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -94,6 +95,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0605-can-place-flowers](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0605-can-place-flowers) |
 ## Sliding Window
 |  |
 | ------- |
