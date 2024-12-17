@@ -22,6 +22,7 @@
 | [0169-majority-element](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -85,6 +86,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0560-subarray-sum-equals-k) |
@@ -102,6 +104,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0219-contains-duplicate-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
