@@ -80,6 +80,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0146-lru-cache) |
@@ -184,10 +185,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/kalpanajoshi12/CrackYourInternship01/tree/master/0020-valid-parentheses) |
 ## Heap (Priority Queue)
 |  |
